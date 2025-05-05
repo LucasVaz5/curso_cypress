@@ -26,6 +26,9 @@ cypress/screenshots/
 cypress/videos/
 cypress/downloads/
 
+# Mochawesome
+/result/
+
 # VS Code (opcional, mas útil para manter limpo)
 .vscode/
 
